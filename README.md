@@ -3,6 +3,7 @@ Importing Xlsx file with huge data using laravel framework
 
 This is an example of importing xlsx file with 100K records in database and after importing you receive an email with number of imported records and number of rejected records
 
+`composer install`  
 
 #### Steps:
 1- Set .env file  
